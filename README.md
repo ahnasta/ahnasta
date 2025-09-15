@@ -1,7 +1,7 @@
 <!-- Header / Banner -->
 ![Header](https://raw.githubusercontent.com/your-username/your-username/main/assets/header.png)
 
-# I'm Anastasya Putri Aulia
+# Anastasya Putri Aulia
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=Welcome+to+my+GitHub!;I'm+a+Student+of+SMK+Telkom+Malang;Always+Learning+New+Things◝(ᵔᗜᵔ)◜)](https://git.io/typing-svg)
 
