@@ -1,11 +1,10 @@
 <!-- Header / Banner -->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5ad8b84-2a95-4315-8a39-027c4e3b94c1" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=+There!+(˶ˆᗜˆ˵))](https://git.io/typing-svg)
-
 ---
 
 # About Anastasya Putri Aulia
+---
 
 ## 🌐 Connect with her:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oioioyuu/)
