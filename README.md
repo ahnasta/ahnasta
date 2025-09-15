@@ -1,5 +1,6 @@
 <!-- Header / Banner -->
-![Header](https://raw.githubusercontent.com/your-username/your-username/main/assets/header.png)
+![Header]<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5ad8b84-2a95-4315-8a39-027c4e3b94c1" />
+
 
 # Anastasya Putri Aulia
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=+There!+(˶ˆᗜˆ˵);I'm+a+Student+;Always+Learning+New+Things)](https://git.io/typing-svg)
