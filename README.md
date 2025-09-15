@@ -1,5 +1,5 @@
 <!-- Header / Banner -->
-<img width="2125" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/4f9bb877-2be3-4f5b-97b9-ba35333a7e32" />
+<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/4909df15-45da-453a-b2b2-78aeccbb3447" />
 
 # About Anastasya Putri Aulia
 ---
