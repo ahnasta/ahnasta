@@ -2,12 +2,7 @@
 ![Header](https://raw.githubusercontent.com/your-username/your-username/main/assets/header.png)
 
 # Anastasya Putri Aulia
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FF5733&width=600&lines=Hello+World!+🌍)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=33FF57&width=600&lines=I'm+Anastasya+Putri+Aulia)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3385FF&width=600&lines=A+Student+from+SMK+Telkom+Malang)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFC300&width=600&lines=Learning+Web+Development+💻)](https://git.io/typing-svg)  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=DA33FF&width=600&lines=Future+Software+Engineer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=+There!+(˶ˆᗜˆ˵);I'm+a+Student+;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 ---
 
