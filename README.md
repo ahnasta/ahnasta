@@ -1,13 +1,13 @@
 <!-- Header / Banner -->
 <img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/c5ad8b84-2a95-4315-8a39-027c4e3b94c1" />
 
-
-# About Me
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=00BFFF&lines=+There!+(˶ˆᗜˆ˵))](https://git.io/typing-svg)
 
 ---
 
-## 🌐 Connect with me:
+# About Anastasya Putri Aulia
+
+## 🌐 Connect with her:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oioioyuu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/personal-saa/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahnasta)
