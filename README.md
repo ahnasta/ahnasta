@@ -1,23 +1,20 @@
-<!-- 🌸 Professional Pastel Pink GitHub Profile README -->
-<!-- Designed for Anastasya Putri Aulia -->
+
 
 <div align="center">
   <img src="BANNER_LINK_HERE" alt="Anastasya Putri Aulia Banner" width="100%"/>
 
-  <h2>🌷 Anastasya Putri Aulia</h2>
-  <p><i>Student at SMK Telkom Malang • Front-End Developer Learner</i></p>
-  <p><b>“Create with heart, code with passion.”</b></p>
+  <h2>Anastasya Putri Aulia</h2>
+  <p>Student at SMK Telkom Malang • software engineering </p>
 </div>
 
 ---
 
-## 🌸 About Me
+# About Me
 
 Hello! I'm **Anastasya Putri Aulia**,  
 a passionate student who loves crafting functional web experiences. 
 
-✨ **Focus Areas:**  
-- Front-End Development (HTML, CSS)  
+ **Focus Areas:**  
 - UI/UX Design & Creative Coding  
 - Web Accessibility & Responsive Design  
 
