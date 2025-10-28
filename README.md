@@ -1,29 +1,69 @@
-<!-- Header / Banner -->
-<img width="2125" height="575" alt="github-header-banner (2)" src="https://github.com/user-attachments/assets/4909df15-45da-453a-b2b2-78aeccbb3447" />
+<!-- 🌸 Pastel Pink Themed GitHub Profile by ChatGPT for ahnasta 🌸 -->
 
-# About Anastasya Putri Aulia
----
+<div align="center">
+  
+# 🌷 Hello, I'm <span style="color:#f5b7d1;">Anastasya Putri Aulia</span> 🌷  
+*“Start is key, scared is killer.”*  
+🎀 Student at **SMK Telkom Malang** | 💻 Aspiring Front-End Developer  
 
-## 🌐 Connect with her:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/oioioyuu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/personal-saa/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ahnasta)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=120&section=header)
 
----
-
-## 🚀 Skills & Learning
-### 🌱 Currently Learning
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🎯 Language Goals
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+</div>
 
 ---
 
+## 🌸 About Me
+🌱 I’m currently learning web development and Java programming.  
+💡 I love designing user interfaces with soft pastel themes.  
+🎯 My goal: become a creative, kind, and impactful developer.  
+
 ---
 
-## ⚡ Fun Fact
-💡 *"start is key, scared is killer"* 
+## 💌 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-fad0c4?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-eac1d3?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/ahnasta"><img src="https://img.shields.io/badge/GitHub-fdcfe8?style=for-the-badge&logo=github&logoColor=black"/></a>
+</p>
+
+---
+
+## 🎀 Skills & Learning
+
+### 🌼 Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ffb6c1?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-fcc9d0?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-fde2e4?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-f6dfeb?style=flat-square&logo=python&logoColor=3b3b3b"/>
+</p>
+
+### 🍡 Language Goal
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-f4b6c2?style=flat-square&logo=java&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Featured Projects
+🌷 [My Portfolio Website](https://github.com/ahnasta/portfolio)  
+🍰 [Simple Calculator JS](https://github.com/ahnasta/js-calculator)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahnasta&show_icons=true&theme=rose_pine&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahnasta&layout=compact&theme=rose_pine&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 🩰 Fun Fact
+> “Pastel isn’t just a color palette — it’s a mindset: calm, bright, and kind.”
+
+<div align="center">
+  
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFC0CB&height=100&section=footer)
+
+</div>
