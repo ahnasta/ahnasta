@@ -14,32 +14,28 @@
 ## 🌸 About Me
 
 Hello! I'm **Anastasya Putri Aulia**,  
-a passionate student who loves crafting beautiful and functional web experiences.  
-I believe that clean code and elegant design can shape meaningful digital products.
+a passionate student who loves crafting functional web experiences. 
 
 ✨ **Focus Areas:**  
-- Front-End Development (HTML, CSS, JavaScript)  
+- Front-End Development (HTML, CSS)  
 - UI/UX Design & Creative Coding  
 - Web Accessibility & Responsive Design  
 
 💡 **Vision:**  
-To grow as a developer who builds **aesthetic, accessible, and impactful websites**  
+To grow as a developer who builds ** accessible and impactful websites**  
 that inspire creativity and innovation.
 
 ---
 
-## 💼 Connect with Me
+# Connect with Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-FFC0CB?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/oioioyuu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E6E6FA?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/personal-saa)
 [![GitHub](https://img.shields.io/badge/GitHub-FFD1DC?style=for-the-badge&logo=github&logoColor=black)](https://github.com/ahnasta)
 
 ---
 
-## Skills & Tools
-
-**Languages & Frameworks**
-
+# Skills & Tools
 
 **Currently Exploring**
 
