@@ -36,14 +36,10 @@ that inspire creativity and innovation.
 
 ---
 
-## 🧁 Skills & Tools
+## Skills & Tools
 
 **Languages & Frameworks**
 
-![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FADADD?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-FEEAF4?style=flat-square&logo=python&logoColor=black)
 
 **Currently Exploring**
 
@@ -53,6 +49,10 @@ that inspire creativity and innovation.
 **Language Goals**
 
 ![Java](https://img.shields.io/badge/Java-E6A6B0?style=flat-square&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FFC0CB?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-FFB6C1?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FADADD?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-FEEAF4?style=flat-square&logo=python&logoColor=black)
 
 ---
 
@@ -71,7 +71,3 @@ that inspire creativity and innovation.
 > “Start is key, scared is killer.” 
 
 ---
-
-<div align="center">
-  <sub>🌸 Designed with love and pastel hues by <b>Anastasya Putri Aulia</b></sub>  
-</div>
